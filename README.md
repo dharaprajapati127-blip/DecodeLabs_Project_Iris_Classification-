@@ -1,4 +1,4 @@
-# DecodeLabs — Project 2: Data Classification Using AI
+# DecodeLabs — Project: Data Classification Using AI
 
 Supervised-learning classifier built for the DecodeLabs AI Internship (Batch 2026).
 The project trains a **K-Nearest Neighbors** model on the classic **Iris** dataset and
